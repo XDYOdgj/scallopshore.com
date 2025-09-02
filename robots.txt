@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://scallopshore.com/sitemap.xml
